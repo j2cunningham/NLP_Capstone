@@ -1,5 +1,5 @@
 lsi: false
-theme: minima
+theme: jekyll-theme-dinky
 safe: true
 source: NLP_Capstone.github.io
 incremental: false
