@@ -1,4 +1,5 @@
 lsi: false
+theme: minima
 safe: true
 source: NLP_Capstone.github.io
 incremental: false
